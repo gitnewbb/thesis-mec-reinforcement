@@ -1,0 +1,22 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경 폴더 제외
+venv/
+
+# Git 및 시스템 관련
+.DS_Store
+*.swp
+
+# 실행 파일 및 로그
+*.log
+*.out
+*.exe
+
+
+# 결과 이미지 및 로그 파일
+*.png
+results_log.txt
